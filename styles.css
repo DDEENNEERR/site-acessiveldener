@@ -162,6 +162,7 @@ h2 {
 
 }
   
+background-color: var(--laranja-claro);
 .rotacao-botao{
  transform: rotate(-90deg);
  transform-origin: right center;
@@ -173,5 +174,5 @@ h2 {
     margin-top: 10px;
     display: flex;
     flex-direction: column;
-    
+
 }
